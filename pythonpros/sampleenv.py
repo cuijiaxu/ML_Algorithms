@@ -41,8 +41,10 @@ import os
 # default values
 # DEFAULT_MAIN_USER = "hygl_jcsj"
 # DEFAULT_MAIN_PASSWORD = "heb_hygl_jcsj"
-DEFAULT_MAIN_USER = "qygl_dd_ddpt"
-DEFAULT_MAIN_PASSWORD = "heb_ddpt"
+#DEFAULT_MAIN_USER = "qygl_dd_ddpt"
+#DEFAULT_MAIN_PASSWORD = "heb_ddpt"
+DEFAULT_MAIN_USER = "hygl_xwgh"
+DEFAULT_MAIN_PASSWORD = "heb_xwgh"
 DEFAULT_INSERT_USER = "hygl_klfx"
 DEFAULT_INSERT_PASSWORD = "heb_klfx"
 DEFAULT_EDITION_USER = "hygl_jcsj"
